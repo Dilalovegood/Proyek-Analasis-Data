@@ -1,1 +1,1 @@
-# My-Data-Project
+Proyek analisis data ini merupakan hasil belajar data science dicoding, dataset yang digunakan hanya 4 yaitu customers_dataset, orders_dataset, orde_items_dataset dan products_dataset. Semua data ini telah melalui proses data asessing, data cleaning, exploratory data analytic, dan data visualization, hasil nya disimpan dalam file all_data.csv. Visualisasi data menggunakan streamlit dan terbilang cukup sederhana.
