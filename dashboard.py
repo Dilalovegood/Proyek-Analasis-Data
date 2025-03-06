@@ -201,4 +201,4 @@ plt.suptitle(
 # Menampilkan plot 4
 st.pyplot(fig4)
 
-st.caption('Copyright (c) Dila Aura Futri Dicoding 2023')
+st.caption('Copyright (c) Dila Aura Futri Dicoding 2025')
